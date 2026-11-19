@@ -2,7 +2,7 @@
 
 Este repositório contém uma solução automatizada em Python para extração e processamento de dados do portal institucional da Universidade Federal de Pelotas.
 
-## Ferraemntas Utilizadas
+## Ferramentas Utilizadas
 
 * **Python 3.14+**
 * **BeautifulSoup4**: Extração e navegação pela árvore HTML.
